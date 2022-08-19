@@ -1,5 +1,5 @@
 # Ecommerce-Web
-Developed a full-stack E-commerce web using MERN (MongoDB, Express, React and Node.js), that enabled clients pick products and place orders, and allowed admin to add or delete products, check orders and income
+Developed a full-stack E-commerce web using MERN (MongoDB, Express, React and Node.js), that enabled clients pick products and place orders, and allowed admin to add or delete products, check orders and income <br/>
 • Developed a full-stack E-commerce web using MERN (MongoDB, Express, React and Node.js), that enabled clients pick products and place orders, and allowed admin to add or delete products, check orders and income
 • Implemented REST APIs with error handling using Node.js and conducted API tests using Postman
 • Developed a relational database with MongoDB to store, manage and process users, products and orders data
